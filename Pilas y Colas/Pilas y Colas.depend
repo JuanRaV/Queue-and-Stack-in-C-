@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1647573111 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+
+1646281160 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\nodo.cpp
+	"nodo.h"
+
+1646281160 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\nodo.h
+
+1647572527 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\pila.cpp
+	"Pila.h"
+	"nodo.h"
+	<iostream>
+
+1647572477 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\pila.h
+	"nodo.h"
+
+1647573059 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\cola.cpp
+	"Cola.h"
+	"nodo.h"
+	<iostream>
+
+1647573161 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\cola.h
+	"nodo.h"
+
+1647576711 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+
+1647576077 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\pila.h
+	"nodo.h"
+
+1646284760 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\nodo.h
+
+1647576761 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\include\cola.h
+	"nodo.h"
+
+1647576780 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\cola.cpp
+	"Cola.h"
+	"nodo.h"
+	<iostream>
+
+1646284760 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\nodo.cpp
+	"nodo.h"
+
+1647576127 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\pilas y colas\pilas y colas\src\pila.cpp
+	"Pila.h"
+	"nodo.h"
+	<iostream>
+
