@@ -1,2 +1,2 @@
-# Queue-and-Stack-in-C++
+# Queue and Stack in <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 A program with a menu to select which data structure you want to use, and the option to do each of its operations; push, pop, top, size, print, and others for stacks and queue, dequeue, first, last, size, etcetera for queues
